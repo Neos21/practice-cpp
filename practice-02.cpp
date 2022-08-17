@@ -1,4 +1,5 @@
 #include <cstdlib>   // system
+#include <cstring>   // strcmp
 #include <iostream>  // std::cout・std::cerr・std::endl
 #include <string>    // std::string
 
